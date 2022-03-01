@@ -14,5 +14,5 @@ layout: default
 	
 
 ## Thesis
-[Master's Thesis: ]\
+[Master's Thesis: ]
 [Code]()
